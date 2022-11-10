@@ -2,7 +2,7 @@
 
 Problem
  
-The most important part of meal management when controlling weight is looking at the nutritional content. It is difficult to grasp the nutritional content only by looking at the finished food picture. Calories are important in a diet, but depending on how the nutrients are composed, even high-calorie foods can be more useful for diet management, so it is necessary to value nutrients when managing a diet.
+The most important part of meal management when controlling weight is looking at the nutritional content. It is difficult to grasp the nutritional content only by looking at the food picture. Calories are important in a diet, but depending on how the nutrients are composed, even high-calorie foods can be more useful for diet management, so it is necessary to value nutrients when managing a diet.
 
 Objectives
 
